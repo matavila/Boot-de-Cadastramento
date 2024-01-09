@@ -1,8 +1,8 @@
 # Boot de Cadastramento de Produtos
 
-<img align="right" height="560em" src="img.png">
+<img align="right" height="560em" src="Captura de tela 2024-01-09 185809.png">
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Este é meu projeto de Data Visualization</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Este é meu projeto de automatização de cadastramento</h1>
 
 Para esse projeto foi utilizado a seguinte stack: <br>
 ![Static Badge](https://img.shields.io/badge/Python-brightgreen)&nbsp;
